@@ -1,0 +1,18 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  background-image: url('https://images.unsplash.com/photo-1499084732479-de2c02d45fcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80');
+}
+
+.title-primary {
+  font-size: var(--fs-4);
+  color: var(--white);
+}
+
+.desc {
+  font-size: var(--fs-15);
+  color: var(--black-2);
+}

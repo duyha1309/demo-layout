@@ -1,10 +1,16 @@
+html {
+  font-size: 16px;
+}
 :root {
   --black: #000;
   --black-1: #111;
+  --black-2: #555;
   --white: #fff;
   --white-1: #f7f7f7;
   --gray: #ddd;
   --gray-1: #eee;
   --size-5: 5px;
   --size-15: 15px;
+  --fs-15: 2rem;
+  --fs-4: 4.5rem;
 }
